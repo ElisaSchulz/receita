@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Receitas</title>
+  <meta name="description" content="Receitas caseiras em português, com ingredientes, modo de preparo e dicas.">
+  <meta name="theme-color" content="#3b1f5c">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <header class="topo">
+    <a class="marca" href="./">Receitas</a>
+  </header>
+
+  <main class="conteudo">
+    <section class="apresentacao">
+      <h1>Nossas receitas</h1>
+      <p>Pratos caseiros, explicados passo a passo.</p>
+    </section>
+
+    <ul id="lista-receitas" class="lista-receitas" aria-live="polite">
+      <li class="aviso">Carregando receitas…</li>
+    </ul>
+  </main>
+
+  <footer class="rodape">
+    <p>Feito com carinho em casa.</p>
+  </footer>
+
+  <script src="js/receitas.js"></script>
+  <script>montarLista();</script>
+</body>
+</html>

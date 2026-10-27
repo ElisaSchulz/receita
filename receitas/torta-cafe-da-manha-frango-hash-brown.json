@@ -1,0 +1,53 @@
+{
+  "titulo": "Torta de Café da Manhã com Frango e Batata Hash Brown",
+  "categoria": "Café da manhã",
+  "descricao": "Frango no café da manhã? Com certeza! Esta torta é uma refeição farta, com frango moído, base cremosa de ovos, batata em cubos, queijo e legumes. Perfeita para qualquer dia.",
+  "foto": "imagens/torta-cafe-da-manha-frango-hash-brown.jpg",
+  "fotoAlt": "Torta de frango, ovos, batata e queijo gratinado em uma forma vermelha, cortada em pedaços, vista de cima",
+  "preparo": "20 min",
+  "forno": "45 min",
+  "tempoTotal": "1h05",
+  "rendimento": "12 fatias",
+  "ingredientes": [
+    { "item": "1 colher de sopa de azeite de oliva" },
+    {
+      "item": "680 g de frango moído (a receita original usa de 454 g a 680 g; com 680 g fica mais reforçada)",
+      "nota": "O frango moído pode ser trocado por frango desfiado ou por outra proteína de sua preferência (por exemplo, carne moída, peru moído ou linguiça)."
+    },
+    { "item": "1 colher de sopa de tempero italiano" },
+    { "item": "3 xícaras de batata hash brown congelada em cubos" },
+    { "item": "2 dentes de alho picados" },
+    { "item": "2 xícaras (no total) de pimentão vermelho e amarelo picados" },
+    { "item": "1 xícara de cogumelos fatiados" },
+    {
+      "item": "1 xícara de espinafre fresco picado",
+      "nota": "Os legumes são flexíveis. Tire os que você não gosta e acrescente outros que goste (por exemplo, cebola, tomate, brócolis, abobrinha ou milho)."
+    },
+    { "item": "12 ovos grandes" },
+    { "item": "1/4 de colher de chá de sal" },
+    { "item": "1/8 de colher de chá de pimenta-do-reino moída" },
+    { "item": "160 ml (2/3 de xícara) de half-and-half ou leite" },
+    { "item": "1 1/2 xícara de queijo cheddar ralado" },
+    { "item": "Opcional, para finalizar: salsinha picada" }
+  ],
+  "modoDePreparo": [
+    "Preaqueça o forno a 190°C (375°F).",
+    "Unte com óleo ou spray antiaderente uma forma de vidro ou cerâmica de 23 x 33 cm. Espalhe a batata hash brown em uma camada uniforme no fundo da forma.",
+    "Aqueça o azeite em uma frigideira grande em fogo médio. Adicione o frango moído e o tempero italiano, e vá desmanchando o frango em pedaços pequenos enquanto cozinha.",
+    "Junte o alho, os pimentões, os cogumelos e o espinafre. Cozinhe até os legumes amolecerem um pouco e o frango estar quase todo cozido.",
+    "Espalhe a mistura de frango e legumes em uma camada uniforme sobre a batata.",
+    "Bata os ovos com o sal, a pimenta, o half-and-half (ou leite) e o queijo ralado. Despeje uniformemente na forma. Se gostar mais cremoso, polvilhe um pouco mais de queijo por cima. Finalize com uma pitada de sal e pimenta.",
+    "Asse sem cobrir por 40 a 45 minutos. O topo deve ficar dourado e as bordas um pouco crocantes. Ao espetar um palito, ele deve sair limpo.",
+    "Deixe esfriar por 5 a 10 minutos, adicione a salsinha se for usar, corte em 12 fatias e sirva."
+  ],
+  "dicasTitulo": "Sobras e dicas",
+  "dicas": [
+    "Guarde as sobras em recipiente hermético na geladeira por 5 a 7 dias. Para comer, é só reaquecer no micro-ondas.",
+    "Dica para o Brasil: o half-and-half pode ser trocado por metade leite e metade creme de leite fresco, e a batata hash brown congelada por batata em cubos pequenos pré-cozida."
+  ],
+  "credito": {
+    "nome": "Powered by Mom",
+    "url": "https://powered-by-mom.com/chicken-breakfast-casserole/",
+    "observacao": "Tradução e adaptação para o português."
+  }
+}
