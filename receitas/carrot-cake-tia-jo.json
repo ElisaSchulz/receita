@@ -1,0 +1,57 @@
+{
+  "idioma": "en",
+  "titulo": "Tia Jô's Brazilian Carrot Cake",
+  "categoria": "Cake",
+  "outroIdioma": "bolo-de-cenoura-tia-jo",
+  "descricao": "The classic Brazilian carrot cake with chocolate frosting, made the way Tia Jô (Dani Noce's mother-in-law) makes it. Unlike American carrot cake, the carrots are blended into the batter, so the cake comes out bright orange, light and fluffy. The secret is weighing the peeled carrots: too much carrot makes the cake heavy and dense.",
+  "preparo": "20 min",
+  "forno": "50 min",
+  "tempoTotal": "1 hr 40 min",
+  "rendimento": "8 servings",
+  "ingredientes": [
+    { "grupo": "Cake" },
+    { "item": "9 1/2 oz carrots, peeled and washed (about 3 medium carrots)" },
+    {
+      "item": "3/4 cup plus 1 1/2 tablespoons sunflower oil",
+      "nota": "Any neutral oil, such as canola or vegetable oil, works too."
+    },
+    { "item": "3 large eggs" },
+    {
+      "item": "1 3/4 cups plus 1 tablespoon granulated sugar",
+      "nota": "Tia Jô's original uses 2 cups. Dani cut it back a little for a less sweet cake."
+    },
+    { "item": "2 cups all-purpose flour (spooned and leveled)" },
+    { "item": "2 teaspoons baking powder" },
+    { "grupo": "Chocolate ganache frosting" },
+    { "item": "6 oz semisweet chocolate (about 56% cacao), chopped" },
+    {
+      "item": "1 tablespoon light corn syrup or honey",
+      "nota": "The original uses glucose syrup. Light corn syrup is the closest US equivalent."
+    },
+    { "item": "7 tablespoons unsalted butter" }
+  ],
+  "modoDePreparo": [
+    { "grupo": "Cake" },
+    "Preheat the oven to 350°F. Grease and flour a cake pan.",
+    "Blend the carrots, oil, eggs and sugar in a blender for about 5 minutes, until completely smooth.",
+    "Pour into a bowl, sift in the flour and baking powder, and stir until combined.",
+    "Bake for about 50 minutes, or until a toothpick inserted into the cake comes out clean.",
+    { "grupo": "Chocolate ganache frosting" },
+    "Bring the butter and corn syrup (or honey) to a boil.",
+    "Pour it over the chopped chocolate and let it sit for 3 minutes.",
+    "Stir or blend until smooth and glossy.",
+    "Pour the ganache over the cake."
+  ],
+  "dicasTitulo": "Tips",
+  "dicas": [
+    "Fewer dishes: once the first mixture is blended, add the flour and baking powder straight to the blender and pulse just until combined. Dani has made it this way with great results.",
+    "Cut the carrots into chunks before blending so the blender can handle them easily.",
+    "The total time includes about 30 minutes for the cake to cool before frosting.",
+    "The cake keeps for up to 3 days."
+  ],
+  "credito": {
+    "nome": "Dani Noce",
+    "url": "https://www.daninoce.com.br/receitas/bolo-de-cenoura-da-tia-jo-aka-minha-sogra/",
+    "observacao": "Translated from Portuguese and converted to US measurements."
+  }
+}

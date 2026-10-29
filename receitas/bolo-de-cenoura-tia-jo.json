@@ -1,0 +1,49 @@
+{
+  "titulo": "Bolo de Cenoura da Tia Jô",
+  "categoria": "Bolo",
+  "outroIdioma": "carrot-cake-tia-jo",
+  "descricao": "O clássico bolo de cenoura com cobertura de chocolate, na receita da Tia Jô, sogra da Dani Noce. O segredo é pesar as cenouras já limpas: cenoura demais deixa o bolo pesado e embatumado.",
+  "preparo": "20 min",
+  "forno": "50 min",
+  "tempoTotal": "1h40",
+  "rendimento": "8 porções",
+  "ingredientes": [
+    { "grupo": "Massa" },
+    { "item": "270 g de cenouras já limpas e lavadas (cerca de 3 cenouras médias)" },
+    { "item": "200 ml de óleo de girassol" },
+    { "item": "3 ovos" },
+    {
+      "item": "360 g de açúcar (2 xícaras de chá)",
+      "nota": "A receita da Tia Jô leva 400 g de açúcar. A Dani diminuiu um pouco para o bolo ficar menos doce."
+    },
+    { "item": "240 g de farinha de trigo (2 xícaras de chá)" },
+    { "item": "8 g de fermento em pó (2 colheres de chá)" },
+    { "grupo": "Ganache (cobertura)" },
+    { "item": "170 g de chocolate meio amargo (56%) picado" },
+    { "item": "1 colher de sopa de glucose ou mel" },
+    { "item": "100 g de manteiga sem sal" }
+  ],
+  "modoDePreparo": [
+    { "grupo": "Massa" },
+    "Preaqueça o forno a 180°C. Unte e enfarinhe uma forma de bolo.",
+    "Bata as cenouras, o óleo, os ovos e o açúcar no liquidificador por cerca de 5 minutos.",
+    "Passe para uma tigela, junte a farinha e o fermento peneirados e misture.",
+    "Leve ao forno por cerca de 50 minutos, ou até que um palito espetado no bolo saia limpo.",
+    { "grupo": "Ganache (cobertura)" },
+    "Leve a manteiga e a glucose (ou mel) ao fogo até ferver.",
+    "Despeje sobre o chocolate picado e espere 3 minutos.",
+    "Mexa ou processe até ficar liso e brilhante.",
+    "Espalhe a ganache por cima do bolo."
+  ],
+  "dicasTitulo": "Dicas",
+  "dicas": [
+    "Para lavar menos louça: depois de bater a primeira mistura, coloque a farinha e o fermento direto no liquidificador e bata só até misturar. A Dani já fez assim e deu super certo.",
+    "O tempo total inclui cerca de 30 minutos de espera para o bolo amornar antes da cobertura.",
+    "O bolo dura até 3 dias."
+  ],
+  "credito": {
+    "nome": "Dani Noce",
+    "url": "https://www.daninoce.com.br/receitas/bolo-de-cenoura-da-tia-jo-aka-minha-sogra/",
+    "observacao": "Receita da Tia Jô, sogra da Dani."
+  }
+}

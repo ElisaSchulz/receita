@@ -27,10 +27,12 @@ Campos de cada receita:
 | `titulo` | Nome da receita |
 | `categoria` | Etiqueta opcional, por exemplo "Café da manhã" |
 | `descricao` | Texto curto de apresentação |
-| `foto`, `fotoAlt` | Caminho da foto e descrição dela para leitores de tela |
+| `foto`, `fotoAlt` | Caminho da foto e descrição dela para leitores de tela. Opcional: sem foto, a página inicial mostra "Foto em breve" |
 | `preparo`, `forno`, `tempoTotal`, `rendimento` | Tempos e rendimento |
-| `ingredientes` | Lista de `{ "item": "...", "nota": "..." }`. A `nota` é opcional e aparece em itálico |
-| `modoDePreparo` | Lista de passos, numerados automaticamente |
+| `idioma` | Opcional. `"en"` para receitas em inglês (troca os títulos da página para inglês). Sem o campo, a receita é em português |
+| `outroIdioma` | Opcional. Nome da mesma receita no outro idioma; aparece um link "Read in English" / "Ver em português" |
+| `ingredientes` | Lista de `{ "item": "...", "nota": "..." }`. A `nota` é opcional e aparece em itálico. Um item `{ "grupo": "Cobertura" }` abre uma nova parte da lista |
+| `modoDePreparo` | Lista de passos, numerados automaticamente. Um item `{ "grupo": "Cobertura" }` abre uma nova parte, com numeração reiniciada |
 | `dicasTitulo`, `dicas` | Título opcional da seção e lista de parágrafos de dicas |
 | `credito` | `{ "nome", "url", "observacao" }` da receita original |
 
