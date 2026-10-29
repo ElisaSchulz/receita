@@ -94,6 +94,17 @@ img { max-width: 100%; display: block; }
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+.foto-vazia {
+  aspect-ratio: 4 / 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--lilas), #d3c2e8);
+  color: var(--roxo);
+  font-family: var(--serifa);
+  font-size: 1.1rem;
+  font-style: italic;
+}
 .cartao-texto { padding: 14px 16px 16px; }
 .cartao-texto h2 { font-size: 1.25rem; margin-bottom: .3em; }
 .cartao-info { margin: 0; color: var(--texto-suave); font-size: .95rem; }
@@ -110,6 +121,8 @@ img { max-width: 100%; display: block; }
   border-radius: 999px;
   margin-bottom: 8px;
 }
+.etiqueta + .etiqueta { margin-left: 6px; }
+.etiqueta.idioma { background: var(--roxo); color: #fff; }
 
 /* Página da receita */
 .receita-foto {
@@ -119,6 +132,11 @@ img { max-width: 100%; display: block; }
   object-fit: cover;
 }
 .receita-titulo { font-size: 1.85rem; }
+.outro-idioma {
+  display: inline-block;
+  margin: -4px 0 14px;
+  font-weight: 600;
+}
 .receita-descricao { margin: 0 0 20px; color: var(--texto-suave); }
 
 .tempos {
@@ -161,6 +179,12 @@ img { max-width: 100%; display: block; }
   margin-bottom: 14px;
 }
 
+.secao .grupo {
+  font-size: 1.1rem;
+  color: var(--roxo-medio);
+  margin: 18px 0 10px;
+}
+.secao h2 + .grupo { margin-top: 0; }
 .ingredientes { margin: 0; padding-left: 1.2em; }
 .ingredientes li { margin-bottom: 10px; }
 .ingredientes li::marker { color: var(--roxo-medio); }
