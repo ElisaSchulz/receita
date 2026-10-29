@@ -3,6 +3,8 @@
   "categoria": "Bolo",
   "outroIdioma": "carrot-cake-tia-jo",
   "descricao": "O clássico bolo de cenoura com cobertura de chocolate, na receita da Tia Jô, sogra da Dani Noce. O segredo é pesar as cenouras já limpas: cenoura demais deixa o bolo pesado e embatumado.",
+  "foto": "imagens/bolo-de-cenoura-tia-jo.jpg",
+  "fotoAlt": "Bolo de cenoura com furo no meio, coberto de ganache de chocolate e granulado colorido, com uma fatia em um prato ao lado",
   "preparo": "20 min",
   "forno": "50 min",
   "tempoTotal": "1h40",
